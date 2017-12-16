@@ -1,8 +1,6 @@
-# Screen Swapper Example Phonegap
+# Screen swapper example Phonegap
 
 A PhoneGap app to swapp screen
-
-## [config.xml][config-xml]
 
 #### android-minSdkVersion (Android only)
 
